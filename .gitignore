@@ -1,0 +1,34 @@
+# Ignore .env file
+.env
+
+# Ignore compiled Java classes and JARs
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore build directories
+/bin/
+/build/
+out/
+
+# Ignore dependency files
+target/''
+*.log
+*.lock
+*.cache
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+ 
+ employee/src/employee/Config.java
+
+/.metadata/
